@@ -3,5 +3,7 @@ My name is Thomas Shelby . I am going to Birmingham
 
 3 stage  committing a file in git
 a. unstaged / Untracked files: -> git status command can check
-b. staged
+b. staged 
 c. committed 
+
+d. git push origin main
